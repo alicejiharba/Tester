@@ -1,0 +1,12 @@
+1) Replace main.py for testing
+Execute: uvicorn app.main:app --reload
+
+2) Paste all test.py in Project_Study_Space_Backend/app/...
+/app
+	test_api.py
+	test_crud.py
+	test_main.py
+	test_models.py
+	test_schemas.py
+
+Execute: python -q (or) python -v
